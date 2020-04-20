@@ -1,5 +1,5 @@
 # example-kms
-The package provides an example how to encrypt a secret file and store it in GCP using KMS.
+The package provides an example how to encrypt a secret file and store it in GCP using KMS, then decrypt and get the file contents
 
 ## Init ##
 
