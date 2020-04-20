@@ -3,7 +3,7 @@ The package provides an example how to encrypt a secret file and store it in GCP
 
 ## Init ##
 
-** Export the following variables **
+**Export the following variables**
 
 ```
 export PROJECT_ID=project-id
